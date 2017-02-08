@@ -55,11 +55,3 @@ h1 {
 #pv-input {
     width: 9em;
 }
-#hamburger-nav {
-    text-decoration: none;
-    color: blue;
-}
-#hamburger-nav:hover {
-    color: red;
-} 
-
