@@ -11,7 +11,7 @@
     <body>
         <div id="chrome">
             <div class="subpanel"> 
-                <h1>EPICS CA Run Chart</h1>
+                <h1>EPICS CA Run Chart (v${initParam.releaseNumber})</h1>
             </div>
             <div class="subpanel">
                 <input type="text" id="pv-input" placeholder="PV Name"/>
